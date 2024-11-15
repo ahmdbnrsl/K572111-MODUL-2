@@ -1,4 +1,4 @@
-## Tugas Aplikasi Kasir (Modul 2)
+## Materi Aplikasi Kasir (Modul 2)
 
 #### 1. Clone this repo
 ```bash
