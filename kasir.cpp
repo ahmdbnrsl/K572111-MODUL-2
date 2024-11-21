@@ -137,7 +137,7 @@ hasil:
 
     cout << "Masukan uang Anda : Rp.";
     cin >> byr;
-    if (byr < hrga)
+    if (byr < (hrga - diskon))
     {
         cout << "UANG ANDA KURANG (Y to back N to close)\n";
         cin >> lagi;
